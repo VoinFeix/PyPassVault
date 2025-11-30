@@ -71,7 +71,7 @@ pip install cryptography
 3. Via Python:
 - Clone the repository
   ```bash
-  git clone https://github.com/DevManoj96/PyPassVault.git
+  git clone https://github.com/VoinFeix/PyPassVault.git
   cd PyPassVault
   ```
 - Run the program
